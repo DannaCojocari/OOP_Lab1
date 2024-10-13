@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "humanoid": true,
+      "planet": "Asgard",
+      "age": 2034,
+      "traits": [
+        "BLONDE",
+        "TALL"
+      ]
+    },
+    {
+      "id": 1,
+      "humanoid": false,
+      "planet": "Endor",
+      "age": 22
+    },
+    {
+      "id": 2,
+      "humanoid": false,
+      "age": 128,
+      "traits": [
+        "GREEN"
+      ]
+    },
+    {
+      "id": 3,
+      "humanoid": true,
+      "age": 7523
+    },
+    {
+      "id": 4,
+      "age": 26,
+      "traits": [
+        "EXTRA_ARMS"
+      ]
+    },
+    {
+      "id": 5,
+      "humanoid": false,
+      "traits": [
+        "BULKY"
+      ]
+    }
+  ]
+}

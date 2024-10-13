@@ -1,0 +1,40 @@
+{
+  "name" : "Star Wars",
+  "individuals" : [ {
+    "id" : 0,
+    "humanoid" : false,
+    "planet" : "Kashyyyk",
+    "age" : 253,
+    "traits" : [ "HAIRY", "TALL" ]
+  }, {
+    "id" : 3,
+    "humanoid" : false,
+    "planet" : null,
+    "age" : 253,
+    "traits" : [ "HAIRY", "TALL" ]
+  }, {
+    "id" : 10,
+    "humanoid" : null,
+    "planet" : "Endor",
+    "age" : null,
+    "traits" : null
+  }, {
+    "id" : 12,
+    "humanoid" : false,
+    "planet" : "Endor",
+    "age" : 34,
+    "traits" : [ "HAIRY", "SHORT" ]
+  }, {
+    "id" : 13,
+    "humanoid" : null,
+    "planet" : "Kashyyyk",
+    "age" : 352,
+    "traits" : [ "HAIRY", "TALL" ]
+  }, {
+    "id" : 20,
+    "humanoid" : false,
+    "planet" : "Endor",
+    "age" : 22,
+    "traits" : null
+  } ]
+}
