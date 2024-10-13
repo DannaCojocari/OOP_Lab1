@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fcffe0d-67c3-4d43-816e-6bafa240e3f7" name="Changes" comment="Added output json files and arranged the code" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/oop-intro-classification-system" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DannaCojocari&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DannaCojocari/OOP_Lab1.git&quot;,
+    &quot;accountId&quot;: &quot;4325597a-54cb-407e-bd0a-a50d7088f077&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nC0VDQg1GnCyCHJUU7SVHeiJ6K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.oop.practice.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\OOP_Lab2\lab-papers-please\java-classifcation\src\main\java\lab_solution\output" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_solution.Main" />
+      <module name="OOP_Lab2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab-papers-please/java-classifcation/src/main/java/lab_solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_solution.Person" />
+      <module name="OOP_Lab2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab-papers-please/java-classifcation/src/main/java/lab_solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lab_solution.Person" />
+      <module name="OOP_Lab2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab-papers-please/java-classifcation/src/main/java/lab_solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.Main" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fcffe0d-67c3-4d43-816e-6bafa240e3f7" name="Changes" comment="" />
+      <created>1728461772025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728461772025</updated>
+      <workItem from="1728461773353" duration="7497000" />
+      <workItem from="1728474725577" duration="3079000" />
+      <workItem from="1728541254094" duration="15731000" />
+      <workItem from="1728623962700" duration="31743000" />
+    </task>
+    <task id="LOCAL-00001" summary="here I got acquainted with the classes in java, I tried to design the data around the laboratory content(person class) and I added there a setter and getter that I called in the main program">
+      <option name="closed" value="true" />
+      <created>1728543111298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728543111298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I added a new class - Read, in order to read a simple txt file and display it in the console">
+      <option name="closed" value="true" />
+      <created>1728579923794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728579923794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="I modified the read class, so I can treat the file as a JSON object, reading every object separately">
+      <option name="closed" value="true" />
+      <created>1728582965714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728582965714</updated>
+    </task>
+    <task id="LOCAL-00004" summary="I mapped the json to the person class, also checked the if the data corresponds">
+      <option name="closed" value="true" />
+      <created>1728593765340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728593765340</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implemented the classification and tested it">
+      <option name="closed" value="true" />
+      <created>1728804996319</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728804996319</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added output json files and arranged the code">
+      <option name="closed" value="true" />
+      <created>1728824289087</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728824289087</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="here I got acquainted with the classes in java, I tried to design the data around the laboratory content(person class) and I added there a setter and getter that I called in the main program" />
+    <MESSAGE value="I added a new class - Read, in order to read a simple txt file and display it in the console" />
+    <MESSAGE value="I modified the read class, so I can treat the file as a JSON object, reading every object separately" />
+    <MESSAGE value="I mapped the json to the person class, also checked the if the data corresponds" />
+    <MESSAGE value="Implemented the classification and tested it" />
+    <MESSAGE value="Added output json files and arranged the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added output json files and arranged the code" />
+  </component>
+</project>

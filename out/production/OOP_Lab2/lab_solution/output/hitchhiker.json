@@ -1,0 +1,10 @@
+{
+  "name" : "Hitchhiker",
+  "individuals" : [ {
+    "id" : 21,
+    "humanoid" : null,
+    "planet" : "Betelgeuse",
+    "age" : 45,
+    "traits" : [ "EXTRA_ARMS", "EXTRA_HEAD" ]
+  } ]
+}
